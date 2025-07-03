@@ -1,0 +1,63 @@
+# Therapist Website - Dr. Serena Blake
+
+A clean, mobile-friendly portfolio website for Dr. Serena Blake built with:
+
+- Next.js 14 (App Router)
+- Tailwind CSS
+- Responsive layout
+- Contact form with validation
+
+## Live Demo
+
+👉 [View on Vercel](https://your-vercel-link.vercel.app)
+
+## Sections
+
+- Hero
+- About
+- Services
+- FAQ
+- Contact
+
+## To Run Locally
+
+```bash
+git clone https://github.com/your-username/therapist-website
+cd therapist-website
+npm install
+npm run dev
+
+# Therapist Website - Dr. Serena Blake, PsyD
+
+This is a fully responsive, accessible, and elegant website built for the internship assignment at [Grow My Therapy](https://growmytherapy.com). The site mirrors the design style of [drjenniferhahm.com](https://www.drjenniferhahm.com/) and is built using **Next.js 14 (App Router)** and **Tailwind CSS**.
+
+---
+
+## 📸 Live Preview
+
+[👉 Click here to view the site on Vercel](https://your-vercel-url.vercel.app)
+
+---
+
+## 🧠 Tech Stack
+
+- **Next.js 14** (App Router)
+- **Tailwind CSS** (utility-first design)
+- **React Hook Form** (form handling)
+- **Deployed via Vercel**
+
+---
+
+## ✅ Features
+
+- Clean, modern design matching Ellie Shumaker-style references
+- Mobile-responsive layout
+- Smooth navigation and section links
+- Image-illustrated services section
+- Accordion-style FAQ
+- Fully validated contact form
+
+---
+
+## 📁 Folder Structure
+
